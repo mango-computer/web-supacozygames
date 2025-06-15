@@ -520,18 +520,6 @@ h1.style1 span.p, h2.style1 span.p, h3.style1 span.p, p.style1 span.p {
 	transform: scale(1.2);
 }
 
-#icons01 .n01 svg {
-	fill: #A0EBD0;
-}
-
-#icons01 .n02 svg {
-	fill: #A0EBA7;
-}
-
-#icons01 .n03 svg {
-	fill: #CAEBA0;
-}
-
 .buttons {
 	cursor: default;
 	display: flex;
